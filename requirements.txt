@@ -1,4 +1,2 @@
-aiohttp
 yarl
 telethon
-cryptg
